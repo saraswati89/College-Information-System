@@ -76,12 +76,6 @@ A desktop-based College Information System developed using Java Swing and MySQL.
 ### Marksheet
 ![Marksheet](screenshots/marksheet.png)
 
-### Personal Chat
-![Personal Chat](screenshots/personalchatting.png)
-
-### Group Chat
-![Group Chat](screenshots/groupchatting.png)
-
 
 ## 👩‍💻 Author
 **Saraswati Kumbhar**  
