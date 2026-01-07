@@ -39,7 +39,49 @@ A desktop-based College Information System developed using Java Swing and MySQL.
 5. Run the Login/Main class
 
 ## 📸 Screenshots
-(Add screenshots here)
+
+### Login Screen
+![Login Screen](screenshots/loginscreen.png)
+
+### Home Page
+![Home Page](screenshots/homepage.png)
+
+### College Details
+![College Details](screenshots/collagedetails.png)
+
+### Courses List
+![Courses](screenshots/courceslist.png)
+
+### Subjects
+![Subjects](screenshots/subjects.png)
+
+### Students Management
+![Students](screenshots/students.png)
+
+### Student Details
+![Student Details](screenshots/studentdetails.png)
+
+### Faculties
+![Faculties](screenshots/faculties.png)
+
+### Attendance Marking
+![Mark Attendance](screenshots/markattandance.png)
+
+### Attendance Report
+![Attendance Report](screenshots/attendanceReport.png)
+
+### Declare Result
+![Declare Result](screenshots/declareresult.png)
+
+### Marksheet
+![Marksheet](screenshots/marksheet.png)
+
+### Personal Chat
+![Personal Chat](screenshots/personalchatting.png)
+
+### Group Chat
+![Group Chat](screenshots/groupchatting.png)
+
 
 ## 👩‍💻 Author
 **Saraswati Kumbhar**  
