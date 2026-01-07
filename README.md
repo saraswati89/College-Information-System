@@ -1,39 +1,50 @@
-# College Information System In Java
+# College Information System
 
-## Hi there !
+A desktop-based College Information System developed using Java Swing and MySQL.
 
-Here I have designed and developed College Information system. The Technology I have used is Java Swing, and database i have used is MySql.
-This design is purely coded myself no copied content.
+## 🔧 Tech Stack
+- Java
+- Java Swing
+- MySQL
+- JDBC
+- Eclipse IDE
 
-Thanks !
+## 📌 Features
+### Common Features
+- Student Management
+- Faculty Management
+- Course & Subject Management
+- Attendance Management
+- Marks & Result Management
 
-## Features
+### Advanced Features 🔥
+- Roll Number Generator
+- Student & Faculty Login
+- Real-time Chatting
+- Group Chat
+- Notifications
+- Message Delivery & Seen Status
+- Login History
+- Marksheet Download
 
- * Common Features 
-      * Cources Management
-      * Subjects Management
-      * Students Management
-      * Faculties Management
-      * Students Attandance Management
-      * Student Marks Management
- * Advance Features 🔥
-      * Rollnumber Generator
-      * Chatting
-          * Message delivered
-          * Unseen messages
-          * Notification
-          * Group chatting
-      * Photo view of Students and Faculties
-      * Student or Faculty login history
-      * Download Marksheet
-      * Notification
-      * Declare result
+## 🗄 Database
+- MySQL
+- SQL file: `collegedata.sql`
 
+## ▶ How to Run Project
+1. Clone the repository
+2. Open project in Eclipse
+3. Create MySQL database using `collegedata.sql`
+4. Update database credentials in code
+5. Run the Login/Main class
 
-## About
+## 📸 Screenshots
+(Add screenshots here)
 
-My name is [Saraswati Kumbhar]( https://github.com/saraswati89). I'm studying Master Of Computer Science (2nd Year) in COCSIT(Latur). Contact me for any improvement in this project.
+## 👩‍💻 Author
+**Saraswati Kumbhar**  
+M.Sc Computer Science – COCSIT, Latur  
+📧 Email: saraswatik1432@gmail.com
 
-
-
-Email : saraswatik1432@gmail.com
+## 📄 License
+Apache License 2.0
